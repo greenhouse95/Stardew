@@ -26,7 +26,7 @@ content:  #!Dictionary<String,String>
     Haley_spouse: "¿Te has acordado de traer cosas buenas para nuestro expositor? Espero que ganemos este año." #!String
     Sebastian_spouse: "Hola, @. Me estoy poniendo al día con Sam. Vé y pásalo bien." #!String
     Sam_spouse: "Sebastian está igual que siempre. ¿Te lo estás pasando bien en el festival?" #!String
-    Alex_spouse: "Me estoy poniendo al día con viejos amigos... tu sigue y pásalo bien." #!String
+    Alex_spouse: "Me estoy poniendo al día con unos viejos amigos... tú sigue y pásalo bien." #!String
     Harvey_spouse: "Me quedaré aquí hasta que quieras irte a casa..." #!String
     Elliott_spouse: "El olor ahumado me ha atraído hasta aquí, aún así, la salsa picante es la que realmente ha sellado mi destino... *gorgoteo*$s" #!String
     Abigail: "Ya he ganado en todos los juegos... ¿Ahora qué?" #!String
